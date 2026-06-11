@@ -8,7 +8,7 @@ const Navbar = () => {
                     <p className="text-sm font-semibold">Realtime</p>
                     <h2 className="text-md font-semibold">Leaderboard</h2>
                 </div>
-                <div className="flex items-center gap-6">
+                <div className="flex items-center gap-3">
                     <Link
                         to="/leaderboard"
                         className="font-semibold text-sm text-black hover:text-gray-800 hover:underline"
